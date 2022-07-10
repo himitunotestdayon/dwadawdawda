@@ -1,0 +1,9 @@
+.label:hover{
+    cursor: pointer;
+    background: whitesmoke;
+    user-select:none;
+}
+.input{
+    cursor: pointer;
+    user-select:none;
+}
